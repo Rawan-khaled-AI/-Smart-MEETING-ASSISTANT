@@ -1,0 +1,11 @@
+streamlit
+moviepy
+imageio[ffmpeg]
+openai-whisper
+transformers
+torch
+sentencepiece
+gTTS
+pyttsx3
+opencv-python
+mediapipe
