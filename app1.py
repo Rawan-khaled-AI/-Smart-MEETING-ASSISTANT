@@ -82,4 +82,5 @@ if uploaded_file:
         st.subheader("🌍 Translated Text")
         st.write(translated_text)
 
-    # 3️⃣ التلخيص
+
+
